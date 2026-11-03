@@ -1,0 +1,26 @@
+# Python virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Test cache
+.pytest_cache/
+
+# Log files
+*.log
+
+# Environment variables and secrets
+.env
+
+# VS Code settings
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+# Generated market data
+data/*
+!data/.gitkeep
+!data/sample_data.csv
