@@ -45,7 +45,7 @@ market-data-downloader/
 1. Clone the repository:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/jkbaraka/market-data-downloader
 ```
 
 2. Navigate into the project directory:
